@@ -4,6 +4,7 @@
 .item{
 	display:flex;
 	flex-direction:column;
+	justify-content:center;
 }
 
 .item-1{

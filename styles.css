@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+.item{
+	display:flex;
+	flex-direction:row;
+}
+
+.item-1{
+	justify-content:center;
+}
